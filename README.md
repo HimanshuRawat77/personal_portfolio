@@ -2,8 +2,6 @@
 
 Welcome to my portfolio website! This project showcases my skills, projects, and achievements. It is built using React and a variety of modern libraries and tools to create a responsive and interactive user experience.
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/kushalkumar-shaw/my-portfolio/master/public/landing%20page.png)
-
 
 ## Features
 
@@ -15,10 +13,6 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - **Interactive Elements**: Used `react-fast-marquee` for scrolling text effects and `typewriter-effect` for dynamic typing animations.
 - **Notifications**: User feedback through `react-hot-toast`.
 - **Document Viewing**: Integrated `react-pdf` for in-browser PDF viewing.
-
-  
-## Live Demo
-You can view the live application here: [Live Demo](https://kushalkumarshaw.vercel.app/)
 
 ## Technologies Used
 
