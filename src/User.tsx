@@ -8,7 +8,7 @@ import {
 const Info = {
   name: "Himanshu Rawat",
   stack: [
-    "Front end Developer"
+    "Front End Developer"
   
   ],
   bio: "I am a second-year B.Tech student at Rishihood University (Newton School of Technology), My academic journey is focused on full-stack development, where I am currently expanding my skill set in both front-end and back-end technologies. I am passionate about creating dynamic and user-friendly web applications that enhance user experiences. With a solid foundation in programming languages such as HTML, CSS, and JavaScript, I am eager to delve deeper into frameworks like React. I am dedicated to continuous learning and growth, looking forward to applying my skills in real-world projects and contributing to the tech community."
