@@ -17,7 +17,7 @@ const Info = {
 const ProjectInfo = [
   {
     title: "Notes-APP",
-    desc: "Our Expense Tracker app, crafted with React and Next.js, offers a streamlined solution for managing personal finances. Using server-side rendering (SSR), the app ensures rapid load times and improved SEO, providing users with a smooth and efficient experience. The app allows users to easily add both expenses and income, thanks to its intuitive form where they can input transaction details such as amount, category, and description. As users log their financial activities, the app dynamically updates and displays their current balance, giving a clear overview of their financial status at any time. With Bootstrap's responsive design, the app adapts seamlessly to different devices, ensuring usability on desktops, tablets, and smartphones. Overall, the Expense Tracker app simplifies financial management, helping users stay organized and on top of their financial goals.",
+    desc: "The Study Notes App is a user-friendly tool designed to help you organize your study materials by subject. With this app, you can type and save notes for each subject, making it easier to keep track of important information for exams, assignments, and projects. Key features include the ability to edit notes, share them with others for collaborative study, and view them anytime for easy revision. Once notes are no longer needed, they can be deleted with a simple click. Ideal for students looking to streamline their study process and stay organized!.",
     img: "/note.png", // Changed to 'img' for consistency
     live: true,
     technologies: ["React", "HTML", "CSS"],
@@ -27,7 +27,7 @@ const ProjectInfo = [
   
   {
     title: "Reliance_Clone",
-    desc: "SnapLink is a robust URL shortening application built with Next.js, designed to streamline the process of transforming long URLs into concise, shareable links. It features seamless integration with the TinyURL API, allowing users to generate shortened URLs effortlessly. The application boasts a mobile-first, responsive design to ensure an optimal user experience across devices, and is optimized with server-side rendering for fast, lightweight performance. Additionally, SnapLink simplifies setup with a straightforward installation process, making it easy for developers to deploy and use.",
+    desc: "The Reliance Digital Clone is a project I developed to improve my skills in React by recreating the functionality of a modern e-commerce platform. This app provides a realistic online shopping experience where users can browse a wide range of electronic products, add items to their cart, and proceed to checkout. Key features include user authentication with sign-up and login, allowing personalized access, a powerful search feature to quickly find products, and a smooth add-to-cart process. Through this project, I gained hands-on experience with component-based design, state management, and user authentication, enhancing my skills in building responsive, interactive web applications.",
     image:
       "https://raw.githubusercontent.com/kushalkumar-shaw/snap-link/main/public/Landing%20page.png",
     live: true,
@@ -155,7 +155,7 @@ export const EducationInfo = [
     img: "images.png",
     school: "Newton School of Technology",
     date: "August 2023 - April 2027",
-    desc: "I am currently pursuing a Bachelor of Technology  at Rishihood University. With a strong foundation in data analysis, statistical modeling, and programming, I am passionate about leveraging data to drive impactful solutions. My academic journey has equipped me with skills in Python, R, machine learning, and big data technologies. I am eager to apply my knowledge to real-world challenges and continue learning in the dynamic field of data science.",
+    desc: "I am currently pursuing a B.Tech in Computer Science with a specialization in AI and Machine Learning from Rishihood University, in collaboration with Newton School of Technology. My academic journey has equipped me with a strong foundation in programming languages and web technologies, including Python, HTML, CSS, JavaScript, and React. I am passionate about leveraging data to develop impactful solutions and am eager to apply my knowledge to real-world challenges. I am committed to continuous learning in the field of programming and aspire to contribute meaningfully to technology-driven innovations. .",
     degree: "Bachelor of Technology - CS and AI",
   },
   {
