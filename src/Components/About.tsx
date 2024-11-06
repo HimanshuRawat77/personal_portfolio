@@ -67,7 +67,7 @@ const About = () => {
           <NeonGradientCard className="w-[325px] h-[325px] lg-mx:w-64 lg-mx:h-64 xsm-mx:w-56 xsm-mx:h-56 items-center justify-center text-center">
             <img
               className="w-full  h-full rounded-full "
-              src="/photo.png"
+              src="/Photo.jpeg"
               alt="profile"
             />
           </NeonGradientCard>
