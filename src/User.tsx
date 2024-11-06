@@ -163,7 +163,7 @@ export const EducationInfo = [
     img: "model.jpeg",
     school: "Model School sec-4, Rohtak",
     date: "May 2022 - Apr 2023",
-    desc: "I completed my class 12 education at Satish Pradhan Dnyanasadhana College,where I studied Science with Information Technology.",
+    desc: "I completed my class 12 education at Model School Sec-4, Rohtak where I studied Science with Information Technology.",
     degree: "Higher Secondary Certificate (Class 12)",
   },
   {
