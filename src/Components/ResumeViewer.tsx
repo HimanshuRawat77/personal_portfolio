@@ -42,7 +42,7 @@ const ResumeViewer = (props: any) => {
               <ActionIcon
                 className="!text-primaryColor"
                 component="a"
-                href="Resume.pdf"
+                href="Resume.pdh"
                 size={btn}
                 download={Info.name}
                 variant="outline"
@@ -61,7 +61,7 @@ const ResumeViewer = (props: any) => {
         <Modal.Body className="!bg-bgColor xs-mx:!p-2 !pt-2 !border-primaryColor  !border-2 xs-mx:!border xs-mx:!border-t-0 !border-t-0 !rounded-bl-3xl !rounded-br-3xl ">
           <Document
             className="w-full !rounded-2xl !overflow-hidden !min-w-40 !min-h-14"
-            file="Resume.pdf"
+            file="Resume_H.pdf"
           >
             <Page
               className="w-full !min-w-40 !min-h-14 md-mx:[&>.react-pdf\_\_Page\_\_canvas]:!w-full md-mx:[&>.react-pdf\_\_Page\_\_canvas]:!h-auto"
