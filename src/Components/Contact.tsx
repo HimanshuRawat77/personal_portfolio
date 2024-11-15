@@ -1,4 +1,4 @@
-'use client'
+ 
 
 import { FormEvent, useRef, useState } from "react";
 import { Button, useMatches } from "@mantine/core";
@@ -56,10 +56,10 @@ const Contact = () => {
       if (Object.keys(newErrors).length === 0) {
         emailjs
           .sendForm(
-            "service_jjlxxjg",
-            "template_61ji0c7",
+            "service_xpp12kh", // Your EmailJS Service ID
+            "template_3l8md6n", // Your EmailJS Template ID
             form.current,
-            "PDptF5UqaqOi7hAdk"
+            "nUu3YX596cfDWMl6n" // Your EmailJS Public Key
           )
           .then(
             (result) => {
