@@ -25,7 +25,7 @@ const navLinks = (col: Boolean, clicked: any) => {
         } text-textColor text-lg font-mono hover:text-primaryColor`}
         href={`#${link}`}
       >
-        <span className="text-primaryColor">0{index + 1}. </span>
+        <span className="text-primaryColor"> </span>
         {link}
       </a>
     );
